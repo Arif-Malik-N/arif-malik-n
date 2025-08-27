@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a seasoned Senior Mobile Application Developer with over 4 years of experience, specializing in both hybrid and native mobile app development. My expertise spans the entire lifecycle of app creation, from initial design concepts to final store submission.
+I am a seasoned Senior Mobile Application Developer with over 5 years of experience, specializing in both hybrid and native mobile app development. My expertise spans the entire lifecycle of app creation, from initial design concepts to final store submission.
 
 I am passionate about crafting robust and scalable applications, employing my strong understanding of system design and architecture principles. My proficiency extends to creating efficient backend systems that seamlessly integrate with mobile frontends, ensuring optimal performance and user experience.
 
